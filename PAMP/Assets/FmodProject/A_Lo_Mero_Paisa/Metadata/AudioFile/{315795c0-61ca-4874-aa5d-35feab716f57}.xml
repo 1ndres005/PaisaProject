@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{315795c0-61ca-4874-aa5d-35feab716f57}">
+		<property name="assetPath">
+			<value>36 forest france france daytime ambience birds.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>122.40979591836735</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6295cf8f-c2c6-4a9e-8a9b-2a65b7e003e6}</destination>
+		</relationship>
+	</object>
+</objects>
